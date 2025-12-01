@@ -2,7 +2,7 @@
   "type": "micro",
   "wake_word": "Computer",
   "author": "Jerrit Eickhoff",
-  "website": "/",
+  "website": "https://www.kevinahrendt.com/",
   "model": "./computer.tflite",
   "version": 1,
   "micro": {
